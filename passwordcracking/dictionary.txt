@@ -1,0 +1,8 @@
+password
+root
+admin
+football
+basketball
+msfadmin
+admin123
+password

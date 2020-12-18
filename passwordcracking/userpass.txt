@@ -1,0 +1,10 @@
+admin:administrator
+123admin:admin123
+password:password
+anonymous:anonymous
+password:password123
+root:msfadmin
+root:GHpzDyyNFUBeU
+msfadmin:msfadmin
+world:helloworld
+root:toor
